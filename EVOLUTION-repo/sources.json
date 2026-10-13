@@ -1,1 +1,10 @@
-
+{
+  "schemaVersion": 1,
+  "sources": [
+    "https://raw.githubusercontent.com/OmkarJ96k/VNM/main/VIETNAM/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/VNM/main/GLOBAL/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/VNM/main/KORIAN/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/VNM/main/TAIWAN/repo.json",
+    "https://raw.githubusercontent.com/OmkarJ96k/VNM/main/EVOLUTION-repo/repo.json"
+  ]
+}
