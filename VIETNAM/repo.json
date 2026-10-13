@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.omkarj96k.evofile.vietnam",
+  "name": "EVOLUTION Vietnam",
+  "description": "EVOLUTION Vietnam patches.",
+  "packages": [
+    {
+      "identifier": "com.omkarj96k.evofile.vietnam.main",
+      "kind": "patch",
+      "name": "PUBG Vietnam Patch",
+      "author": "EVOLUTION",
+      "version": "1.0",
+      "summary": "PUBG Updated Patch v1.0",
+      "download": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/VIETNAM/game_patch_4.6.0.21572.pak",
+      "sha256": "4c7596452d90a608cab6de356513a84ba767b7bf90097f8b50ac13abe2142c44",
+      "size": 4210761,
+      "supportedOS": [
+        {
+          "minimum": "16.0",
+          "maximum": "26.0",
+          "builds": null
+        }
+      ]
+    },
+    {
+      "identifier": "com.omkarj96k.evofile.vietnam.brutal",
+      "kind": "patch",
+      "name": "BRUTAL Patch",
+      "author": "EVOLUTION",
+      "version": "1.0",
+      "summary": "BRUTAL Updated Patch v1.0",
+      "download": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/VIETNAM/BRUTAL/game_patch_4.6.0.21572.pak",
+      "sha256": "de04922d7a6ae996786a4766eca776e866fd421553f78134b48557d107199c9a",
+      "size": 4058729,
+      "supportedOS": [
+        {
+          "minimum": "16.0",
+          "maximum": "26.0",
+          "builds": null
+        }
+      ]
+    }
+  ]
+}

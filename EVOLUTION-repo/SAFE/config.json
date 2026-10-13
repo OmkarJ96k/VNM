@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "patchName": "SAFE Patch",
+  "fileName": "SAFE_game_patch_4.6.0.21565.pak",
+  "fileNameUpdate": "SAFE Updated Patch v1.0",
+  "downloadURL": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/EVOLUTION-repo/SAFE/SAFE_game_patch_4.6.0.21565.pak",
+  "targetBundleID": "com.pubg.imobile",
+  "targetPath": "Documents/ShadowTrackerExtra/Saved/Paks/puffer_temp/"
+}

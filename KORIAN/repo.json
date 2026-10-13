@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.omkarj96k.evofile.korian",
+  "name": "EVOLUTION Korean",
+  "description": "EVOLUTION Korean patches.",
+  "packages": [
+    {
+      "identifier": "com.omkarj96k.evofile.korian.main",
+      "kind": "patch",
+      "name": "PUBG Korean Patch",
+      "author": "EVOLUTION",
+      "version": "1.0",
+      "summary": "PUBG Updated Patch v1.0",
+      "download": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/KORIAN/game_patch_4.6.0.21572.pak",
+      "sha256": "72ca8b7f05689999908a564e0401eb3b3b2cc772031cb2c359d05a9124d163ad",
+      "size": 4210777,
+      "supportedOS": [
+        {
+          "minimum": "16.0",
+          "maximum": "26.0",
+          "builds": null
+        }
+      ]
+    }
+  ]
+}

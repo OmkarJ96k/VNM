@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "patchName": "YOUTUBER Patch",
+  "fileName": "YOUTUBER_game_patch_4.6.0.21565.pak",
+  "fileNameUpdate": "YOUTUBER Updated Patch v1.0",
+  "downloadURL": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/EVOLUTION-repo/YOUTUBER/YOUTUBER_game_patch_4.6.0.21565.pak",
+  "targetBundleID": "com.pubg.imobile",
+  "targetPath": "Documents/ShadowTrackerExtra/Saved/Paks/puffer_temp/"
+}

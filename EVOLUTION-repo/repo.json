@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.omkarj96k.evofile.evolution-repo",
+  "name": "EVOLUTION BGMI",
+  "description": "EVOLUTION BGMI patches.",
+  "packages": [
+    {
+      "identifier": "com.omkarj96k.evofile.evolution-repo.main",
+      "kind": "patch",
+      "name": "PUBG Mobile India Patch",
+      "author": "EVOLUTION",
+      "version": "1.1",
+      "summary": "PUBG Updated Patch v1.0",
+      "download": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/EVOLUTION-repo/game_patch_4.6.0.21572.pak",
+      "sha256": "72ca8b7f05689999908a564e0401eb3b3b2cc772031cb2c359d05a9124d163ad",
+      "size": 4210777,
+      "supportedOS": [
+        {
+          "minimum": "16.0",
+          "maximum": "26.0",
+          "builds": null
+        }
+      ]
+    },
+    {
+      "identifier": "com.omkarj96k.evofile.evolution-repo.brutal",
+      "kind": "patch",
+      "name": "BRUTAL Patch",
+      "author": "EVOLUTION",
+      "version": "1.0",
+      "summary": "BRUTAL Updated Patch v1.0",
+      "download": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/EVOLUTION-repo/BRUTAL/game_patch_4.6.0.21572.pak",
+      "sha256": "e047a492d9748e77229dc362e6f7d116f068353571a9b18883701db841c70135",
+      "size": 4166729,
+      "supportedOS": [
+        {
+          "minimum": "16.0",
+          "maximum": "26.0",
+          "builds": null
+        }
+      ]
+    }
+  ]
+}
